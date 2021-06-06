@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    padding: 30px;
+}
+
+.navbar-brand{
+    padding-left: 20px;
+}
+
+#navbarSupportedContent > form > button {
+    border-radius: 30px;
+}
+
+#navbarSupportedContent > form > input {
+    border-radius: 30px;
+}
+
+.nav-item{
+    padding: 10px;
+}
+
+#carouselExampleCaptions > div.carousel-inner > div:nth-child(2) > div > div > div > div > h1{
+    color: black;
+}
+
+.carousel-caption h1 {
+    font-size: 60px;
+    font-weight: 400;
+    color: black;
+}
+
+.carousel-caption p { 
+    color: black;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.carousel-caption h2 {
+    font-size: 60px;
+    font-weight: 400;
+    color: black;
+}
+
+.btn0{
+    background-color: orange;
+    height: 45px;
+    width:150px;
+    outline:none;
+    border: none;
+}
+
+.btn0:hover{
+    background-color:orange;
+    color: white;
+    transition: 0.4s;
+}
+
+.mens-fashion span{
+    color: orange;
+    font-size: 25px;
+    font-weight: 800;
+    padding-left: 5px;
+
+}
+
+.card{
+    border: none;
+}
+
+.mens-fashion input{
+    background-color: orange;
+    color: black;
+    border-radius: 20px;
+}
+
+.mens-fashion input:hover{
+    color: white;
+}
+
+.womens-fashion span{
+    color: orange;
+    font-size: 25px;
+    font-weight: 800;
+    padding-left: 5px;
+
+}
+
+.card{
+    border: none;
+}
+
+.womens-fashion input{
+    background-color: orange;
+    color: black;
+    border-radius: 20px;
+}
+
+.womens-fashion input:hover{
+    color: white;
+}
+
+.contact input {
+    height: 50px;
+    width: 100%;
+    outline: none;
+    border: none;
+    color: gray;
+    background-color: white;
+    padding: 10px;
+    -webkit-box-shadow: 0px 2px 21px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 21ox -8px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 21px -8px rgba(0,0,0,0.75);
+
+}
+
+.btn4{
+    height: 45px;
+    width: 100px;
+    background-color: orange;
+    color: black;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 30px;
+}
+.btn4:hover{
+    color: white;
+}
+
+.contact {
+    background-color: rgb(255, 196, 87);
+}
